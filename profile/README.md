@@ -1,4 +1,4 @@
-## Hi there 👋 ,Welcome to TPLabs !
+## Hi there 👋 ,Welcome to TP Labs !
 
 <!--
 
